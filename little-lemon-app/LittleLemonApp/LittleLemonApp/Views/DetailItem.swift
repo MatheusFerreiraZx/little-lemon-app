@@ -2,7 +2,7 @@
 //  DetailItem.swift
 //  LittleLemonApp
 //
-//  Created by Jevgeni Vakker on 24.03.2023.
+//  Created by Matheus Ferreira on 24.03.2023.
 //
 
 import SwiftUI

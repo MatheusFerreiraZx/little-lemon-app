@@ -2,7 +2,7 @@
 //  HeroSection.swift
 //  LittleLemonApp
 //
-//  Created by Jevgeni Vakker on 18.03.2023.
+//  Created by Matheus Ferreira on 18.03.2023.
 //
 
 import SwiftUI
